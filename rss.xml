@@ -14,6 +14,19 @@
 		<item>
 			<link>https://aws.amazon.com/security/security-bulletins/rss/aws-2025-015/</link>
 			<guid isPermaLink="false">dfee37aba8054b8e2c08d4e5ff962f9cf620161b</guid>
+			<title>CVE: This is a test ticket to see if we can add categories</title>
+			<description>&lt;p&gt;&lt;b&gt;Scope:&lt;/b&gt; AWS&lt;br&gt; &lt;b&gt;Content Type:&lt;/b&gt; Important (requires attention)&lt;br&gt; &lt;b&gt;Publication Date:&lt;/b&gt;&amp;nbsp;2025/07/23 6:00 PM PDT&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt; 
+&lt;p&gt;AWS is aware of and has addressed an issue in the Amazon Q Developer Extension for Visual Studio Code (VSC). Security researchers reported a potentially unapproved code modification was attempted in the open-source VSC extension that targeted Q Developer CLI command execution. This issue did not affect any production services or end-users.&lt;/p&gt; 
+&lt;p&gt;Once we were made aware of this issue, we immediately revoked and replaced the credentials, removed the unapproved code from the codebase, and subsequently released Amazon Q Developer Extension version 1.85 to the marketplace.&lt;/p&gt; 
+&lt;p&gt;&lt;strong&gt;Affected version:&lt;/strong&gt; Amazon Q Developer Extension for Visual Studio Code (versions 1.84)&lt;/p&gt;</description>
+			<pubDate>Fri, 1 Aug 2025 09:51:42 +0000</pubDate>
+			<category/>
+			<author>aws@amazon.com</author>
+		</item>
+		<item>
+			<link>https://aws.amazon.com/security/security-bulletins/rss/aws-2025-015/</link>
+			<guid isPermaLink="false">dfee37aba8054b8e2c08d4e5ff962f9cf620161b</guid>
 			<title>CVE: Test Title</title>
 			<description>&lt;p&gt;&lt;b&gt;Scope:&lt;/b&gt; AWS&lt;br&gt; &lt;b&gt;Content Type:&lt;/b&gt; Important (requires attention)&lt;br&gt; &lt;b&gt;Publication Date:&lt;/b&gt;&amp;nbsp;2025/07/23 6:00 PM PDT&lt;/p&gt; 
 &lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;/p&gt; 
